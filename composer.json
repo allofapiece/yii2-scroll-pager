@@ -1,5 +1,5 @@
 {
-    "name": "kop/yii2-scroll-pager",
+    "name": "allofapiece/yii2-scroll-pager",
     "description": "Infinite AJAX scrolling for Yii2 ListView widget",
     "homepage": "http://kop.github.io/yii2-scroll-pager/",
     "keywords": ["yii", "yii2", "scroll", "scrolling", "pager", "pagination"],
@@ -19,7 +19,7 @@
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
-        "webcreate/jquery-ias": "^2.2.1"
+        "webcreate/jquery-ias": "^2.3.1"
     },
     "autoload": {
         "psr-4": {
